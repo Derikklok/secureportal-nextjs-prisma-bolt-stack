@@ -12,7 +12,7 @@ import {
 } from "@/components/ui/card";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";
-import DashboardNavBar1 from "../components/DashboardNavbar1";
+import DashboardNavBar1 from "../components/DashboardNavBar1";
 import { 
   BarChart3, 
   Users, 
